@@ -21,16 +21,6 @@ Here are the resulting images, refined by applying the **erosion operation**.
 
 * [Python 3.7](https://www.python.org/downloads/release/python-370/)
 
-
-### Author
-
-* [EleMisi](https://github.com/EleMisi)
-
-
-### License
-
-This project is licensed under the Apache License 2.0 - see the [LICENSE.md](https://github.com/EleMisi/TinyProjects/blob/master/LICENSE) file for details.
-
 ### External links
 * Fruit Inspection project on my [website](https://eleonoramisino.altervista.org/fruit-inspection/).
 
